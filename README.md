@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sawsanjamal
 - 👀 I’m interested in building fun & user friendly web apps & apps! 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Python 
 - 📫 How to reach me: email me at selhalab297@gmail.com
 - 😄 Pronouns: she/her
 
